@@ -20,4 +20,5 @@
 <br/>
 
 <h2 align="center">📊〃Stats</h2>
-[TheNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemsps&show_icons=true&theme=radical)
+![TheNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemsps&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=systemsps&theme=radical)
