@@ -10,6 +10,27 @@
 
  </div>
 
+## 🌐〃Socials
+
+[Discord](https://discord.com/users/1200909869872586752)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/systemsps)
+3. Personnalisation
+Si tu préfères utiliser d'autres plateformes, tu peux trouver des badges personnalisés ou simplement des icônes à partir de sites comme Font Awesome ou Simple Icons, et les intégrer de la même manière.
+
+4. Une autre approche avec des liens simples
+Si tu ne veux pas utiliser des icônes ou des badges, tu peux aussi simplement ajouter des liens avec des textes simples :
+
+markdown
+Copier le code
+## 🌐〃Find me on:
+
+- [Twitter](https://twitter.com/ton_pseudo)
+- [LinkedIn](https://www.linkedin.com/in/ton_pseudo/)
+- [Instagram](https://www.instagram.com/ton_pseudo/)
+- [YouTube](https://www.youtube.com/c/ton_pseudo)
+- [GitHub](https://github.com/ton_pseudo)
+5. Vérifie que les liens sont bien visibles 
+
 ## ⚒️〃Languages-Frameworks-Tools
 <br/>
 <div align="center">
