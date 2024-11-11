@@ -10,7 +10,7 @@
 
  </div>
 
-##⚒️〃Languages-Frameworks-Tools
+## ⚒️〃Languages-Frameworks-Tools
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma," />
