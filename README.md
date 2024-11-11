@@ -8,7 +8,7 @@
  
  🌱 I’m currently learning **HTML5, CSS, Javascript, Python and Lua**
 
- </div>
+</div>
 
 ## 🌐〃Socials
 
@@ -21,7 +21,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma," />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,lua" /><br>
 </div>
-
 <br/>
 
 ## 🐍 My Contributions
