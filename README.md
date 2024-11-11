@@ -20,4 +20,4 @@
 <br/>
 
 <h2 align="center">⚒📊〃Stats</h2>
-https://github-readme-stats.vercel.app/api?username=systemsps
+[![TheNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemsps)]
