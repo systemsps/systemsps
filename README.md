@@ -24,7 +24,7 @@
 <br/>
 
 ## 🐍 My Contributions
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/systemsps/systemsps/output/github-contribution-grid-snake.svg" />
+  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 📊〃Stats
 
