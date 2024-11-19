@@ -23,9 +23,6 @@
 </div>
 <br/>
 
-## 🐍 My Contributions
-![Snake animation](https://github.com/systemsps/systemsps/blob/output/github-contribution-grid-snake.svg)
-
 ## 📊〃Stats
 
 ![TheNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemsps&show_icons=true&theme=radical)
