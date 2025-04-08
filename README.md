@@ -19,7 +19,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,discordjs" />
-    <img src="https://skillicons.dev/icons?i=html,cssnodejs,python,javascript,lua,aiml" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,python,javascript,lua,aiml" /><br>
 </div>
 <br/>
 
