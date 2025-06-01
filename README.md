@@ -1,12 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=systemsps.systemsps)
 
 ## 🌍〃About Me
-
-<div align="center">
- 
 Rien de spécial à dire
-
-</div>
 
 ## 🌐〃Socials
 
