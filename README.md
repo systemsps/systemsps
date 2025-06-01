@@ -18,7 +18,7 @@ Rien de si spécial à dire
 
 ## 📊〃Stats
 
-![TheNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemsps&show_icons=true&theme=onedark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=systemsps&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=systemsps&theme=onedark)
+![TheNetwork's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemsps&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=systemsps&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=systemsps&theme=gruvbox)
 
