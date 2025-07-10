@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=xbloxet.xbloxet)
 
 ## 🌍〃About Me
-Rien de si spécial à dire
+Rien de spécial
 
 ## 🌐〃Socials
 
