@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=systemsps.systemsps)
 
 ## 🌍〃About Me
-Rien de spécial
+Passsionné de programmation, d'audiovisuel et de jeux vidéos.
 
 ## 🌐〃Socials
 
