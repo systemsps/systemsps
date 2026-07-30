@@ -24,7 +24,7 @@
 
 ```javascript
 const WhoAmI = {
-  name: "grind",
+  name: "Silence",
   role: "Developer",
   experience: "2+ years",
   languages: ["JavaScript", "TypeScript", "Python"],
